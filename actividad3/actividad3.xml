@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="actividad3.css" type="text/css"?>
+<Disco>
+    <arriba>
+        <imagen></imagen>
+        <columna>
+            <etiqueta>artista:</etiqueta>
+            <etiqueta>título:</etiqueta>
+            <etiqueta>sello:</etiqueta>
+            <etiqueta>referencia:</etiqueta>
+            <etiqueta>año:</etiqueta>
+            <etiqueta>pais:</etiqueta>
+            <etiqueta>formato:</etiqueta>
+            <etiqueta>género:</etiqueta>
+            <etiqueta>estilo:</etiqueta>
+            <etiqueta>observaciones:</etiqueta>
+        </columna>
+        <columna>
+            <etiqueta>abc(2)</etiqueta>
+            <etiqueta>The collection</etiqueta>
+            <etiqueta>karussell international</etiqueta>
+            <etiqueta>551 831-2</etiqueta>
+            <etiqueta>1996</etiqueta>
+            <etiqueta>Germany</etiqueta>
+            <etiqueta>CD - Compilation</etiqueta>
+            <etiqueta>Funk / Soul, Electronic</etiqueta>
+            <etiqueta>Funk Disco, Synth-Pop</etiqueta>
+            <etiqueta>License from Mercury Records Ltd(London)</etiqueta>
+        </columna>
+    </arriba>
+    <columna>
+        <etiqueta>CD 1</etiqueta>
+    </columna>
+    <abajo>    
+        <columna>
+            <etiqueta>01</etiqueta>
+            <etiqueta>02</etiqueta>
+            <etiqueta>03</etiqueta>
+            <etiqueta>04</etiqueta>
+            <etiqueta>05</etiqueta>
+            <etiqueta>06</etiqueta>
+            <etiqueta>07</etiqueta>
+            <etiqueta>08</etiqueta>
+            <etiqueta>09</etiqueta>
+            <etiqueta>10</etiqueta>
+            <etiqueta>11</etiqueta>
+            <etiqueta>12</etiqueta>
+            <etiqueta>13</etiqueta>
+            <etiqueta>14</etiqueta>
+            <etiqueta>15</etiqueta>
+            <etiqueta>16</etiqueta>
+            <etiqueta>17</etiqueta>
+            <etiqueta>18</etiqueta>
+        </columna>
+        <columna>
+            <etiqueta></etiqueta>
+            <etiqueta>cancion 01</etiqueta>
+            <etiqueta>cancion 02</etiqueta>
+            <etiqueta>cancion 03</etiqueta>
+            <etiqueta>cancion 04</etiqueta>
+            <etiqueta>cancion 05</etiqueta>
+            <etiqueta>cancion 06</etiqueta>
+            <etiqueta>cancion 07</etiqueta>
+            <etiqueta>cancion 08</etiqueta>
+            <etiqueta>cancion 09</etiqueta>
+            <etiqueta>cancion 10</etiqueta>
+            <etiqueta>cancion 11</etiqueta>
+            <etiqueta>cancion 12</etiqueta>
+            <etiqueta>cancion 13</etiqueta>
+            <etiqueta>cancion 14</etiqueta>
+            <etiqueta>cancion 15</etiqueta>
+            <etiqueta>cancion 16</etiqueta>
+            <etiqueta>cancion 17</etiqueta>
+            <etiqueta>cancion 18</etiqueta>
+        </columna>
+    </abajo>
+</Disco>

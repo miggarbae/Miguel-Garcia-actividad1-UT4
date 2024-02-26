@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<liga>
+    <equipo>
+        <nombre>BARCELONA</nombre>
+        <entrenador>XAVI</entrenador>
+        <jugador>PEDRI</jugador>
+    </equipo>
+    <equipo>
+        <nombre>MADRID</nombre>
+        <entrenador>ANCELOTI</entrenador>
+        <jugador>VINICIUS</jugador>
+    </equipo>
+    <equipo>
+        <nombre>GIRONA</nombre>
+        <entrenador>MICHEL</entrenador>
+        <jugador>ALEIX</jugador>
+    </equipo>
+    <equipo>
+        <nombre>ATLETICO DE MADRID</nombre>
+        <entrenador>SIMEONE</entrenador>
+        <jugador>KOKE</jugador>
+    </equipo>
+    <equipo>
+        <nombre>VALENCIA</nombre>
+        <entrenador>BARAJA</entrenador>
+        <jugador>HUGO</jugador>
+    </equipo>
+</liga>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="actividad4.css" type="text/css"?>
+<cartel>
+    <alto>
+        <actor>
+            <nombre>Ewan</nombre>
+            <apellido>mcgregor</apellido>
+        </actor>
+        <actor>
+            <nombre>Albert</nombre>
+            <apellido>finney</apellido>
+        </actor>
+        <actor>
+            <nombre>Billy</nombre>
+            <apellido>crudup</apellido>
+        </actor>
+        <actor>
+            <nombre>Jessica</nombre>
+            <apellido>lange</apellido>
+        </actor>
+    </alto>   
+    <medio>
+        <director>
+            <frase>Una película de </frase>
+            <creador>tim burton</creador>        
+        </director>
+    </medio> 
+    <bajo>
+        <mensaje>
+            <etiqueta>una aventura tan grande como la vida</etiqueta>
+            <etiqueta>misma</etiqueta>
+        </mensaje>
+    </bajo>
+</cartel>

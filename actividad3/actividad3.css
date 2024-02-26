@@ -1,0 +1,65 @@
+Disco
+{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(45, 52, 102, 0.392);
+    color: white;
+}
+arriba
+{
+    display: flex;
+    flex-direction: row;
+}
+imagen
+{
+    background-image: url(./Miguel-Garcia-actividades1-UT4/abc.jpg);
+}
+
+columna:nth-child(2) /*Cambio selector*/
+{
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    text-transform: capitalize;
+}
+columna:nth-child(3) /*Cambio selector*/
+{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+columna:nth-child(3) etiqueta:first-child /*Cambio selector*/
+{
+    text-transform: capitalize;  
+    color: rgb(255, 115, 0);
+}
+columna:nth-child(2) etiqueta /*Cambio selector*/
+{
+    text-transform: uppercase;  /*Cambio propiedad*/ 
+}
+abajo
+{
+    display: flex;
+    flex-direction: row;
+}
+columna:first-child
+{
+   display: flex;
+   flex-direction: column;
+   text-align: center;
+}
+columna:first-child:nth-last-of-type(2n)
+{
+    background-color: rgb(10, 10, 29);
+}
+columna:nth-child(2)
+{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+columna:nth-child(2):nth-of-type(2n) 
+{
+    background-color: rgb(10, 10, 29); /*NO SE PONER EL FONDO SOLO A LAS PARES */
+    
+}
